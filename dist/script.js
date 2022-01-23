@@ -1,1 +1,1 @@
-console.log('Jura Herda');
+console.log('Juraj Herda');
